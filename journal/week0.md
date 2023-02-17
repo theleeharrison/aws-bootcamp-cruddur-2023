@@ -41,7 +41,7 @@ I downloaded and installed the AWS CLI tool following the instuctions on the AWS
 ![AWS Credentials](assets/aws_cli_s3.png)
 
 I have also added an example where I am using AWS CLI from with my Gitpod.io workspace.
-![AWS Credentials](assets/Gitpod_AWSCLI.png)
+![AWS Credentials](assets/Gitpod_AWSCLI2.png)
 
 
 
