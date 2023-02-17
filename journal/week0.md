@@ -28,7 +28,7 @@ I was able to create a new admin users from the IAM service in AWS by using my R
 ### Use of AWS Cloudshell
 
 I used AWS Cloudshell to display my Account Details, these have been redacted for security reasons in my screenshot, shown below.
-![AWS Cloudshell] (assets/AWS_Cloudshell.png)
+![AWS Cloudshell](assets/AWS_Cloudshell.png)
 
 Generate AWS Credentials
 
