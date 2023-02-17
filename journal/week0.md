@@ -49,7 +49,7 @@ I followed Ashish's security considerations video to create an AWS Billing Alarm
 ![AWS Credentials](assets/BillingAlarm_Cloudwatch.png)
 
 
-Create an AWS Budget
+### Create an AWS Budget
 
 I followed Ashish's security considerations video to create an AWS Budget in the AWS UI.
 ![AWS Credentials](assets/AWS_Budget.png)
