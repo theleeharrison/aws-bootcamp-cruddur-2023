@@ -40,6 +40,13 @@ I used the AWS GUI to generate an access key and secret access key, as well as s
 I downloaded and installed the AWS CLI tool following the instuctions on the AWS CLI webpage, I am using Gitpod for the Bootcamp and I injected the auto-installer code into the .gitpod.yml file so AWS CLI installs each time. I am using my local machine for a different project right now so I have a differnet AWS Account connected here, please see a screenshot demonstrating an S3 ls command from AWS CLI.
 ![AWS Credentials](assets/aws_cli_s3.png)
 
+I have also added an example where I am using AWS CLI from with my Gitpod.io workspace.
+![AWS Credentials](assets/Gitpod_AWSCLI.png)
+
+
+
+
+
 Create Billing Alarm
 
 ```
