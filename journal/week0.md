@@ -10,7 +10,7 @@ https://lucid.app/lucidchart/f46ae2ea-ecbe-47bc-ad04-8cb1615be47a/edit?viewport_
 Lucid Chart Architectural Design
 
 ```
-
+https://lucid.app/lucidchart/b3f11f42-8bed-4b5b-88d5-00c73b463c40/edit?viewport_loc=-1%2C-249%2C2831%2C1565%2C0_0&invitationId=inv_41861d44-a0ea-49db-93e9-05f0249457c1
 ```
 
 AWS Admin User Creation
