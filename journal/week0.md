@@ -43,7 +43,7 @@ I downloaded and installed the AWS CLI tool following the instuctions on the AWS
 I have also added an example where I am using AWS CLI from with my Gitpod.io workspace.
 ![AWS Credentials](assets/Gitpod_AWSCLI2.png)
 
-### Create Billing Alarm
+### Create Billing Alarm
 
 I followed Ashish's security considerations video to create an AWS Billing Alarm, in Cloudwatch.
 ![AWS Credentials](assets/BillingAlarm_Cloudwatch.png)
