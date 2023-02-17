@@ -22,7 +22,7 @@ https://lucid.app/lucidchart/b3f11f42-8bed-4b5b-88d5-00c73b463c40/edit?viewport_
 I was able to create a new admin users from the IAM service in AWS by using my Root account. I create a new user, create a group called 'bootcamp_admin'. I then proceeded to add the 'AdministratorAccess' role to my group and I also added my user to that group. A screenshot demoing my actions is shown below.
 
 ```
-https://www.icloud.com/iclouddrive/00c1h18JU-nW54k0y2S8Ey03w#IAM_Admin_User2
+
 ```
 
 Use of AWS Cloudshell
