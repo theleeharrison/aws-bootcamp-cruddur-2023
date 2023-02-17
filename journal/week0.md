@@ -33,7 +33,7 @@ I used AWS Cloudshell to display my Account Details, these have been redacted fo
 ### Generate AWS Credentials
 
 I used the AWS GUI to generate an access key and secret access key, as well as setting my default region for the programatic access. These detials are shown below with the security concious information redacted.
-![AWS Credentials](assets/AWS_Creds.png)
+![AWS Credentials](assets/AWS_Creds2.png)
 
 ### Install AWS CLI
 
