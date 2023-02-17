@@ -30,17 +30,15 @@ I was able to create a new admin users from the IAM service in AWS by using my R
 I used AWS Cloudshell to display my Account Details, these have been redacted for security reasons in my screenshot, shown below.
 ![AWS Cloudshell](assets/AWS_Cloudshell.png)
 
-Generate AWS Credentials
+### Generate AWS Credentials
 
-```
+I used the AWS GUI to generate an access key and secret access key, as well as setting my default region for the programatic access. These detials are shown below with the security concious information redacted.
+![AWS Credentials](assets/AWS_Creds.png)
 
-```
+### Install AWS CLI
 
-Install AWS CLI
-
-```
-
-```
+I downloaded and installed the AWS CLI tool following the instuctions on the AWS CLI webpage, I am using Gitpod for the Bootcamp and I injected the auto-installer code into the .gitpod.yml file so AWS CLI installs each time. I am using my local machine for a different project right now so I have a differnet AWS Account connected here, please see a screenshot demonstrating an S3 ls command from AWS CLI.
+![AWS Credentials](assets/aws_cli_s3.png)
 
 Create Billing Alarm
 
