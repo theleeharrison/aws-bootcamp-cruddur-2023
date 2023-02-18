@@ -48,8 +48,25 @@ I have also added an example where I am using AWS CLI from with my Gitpod.io wor
 I followed Ashish's security considerations video to create an AWS Billing Alarm, in Cloudwatch.
 ![AWS Credentials](assets/BillingAlarm_Cloudwatch.png)
 
+I also followed Andrew's video on how to create a Billing alarm from the CLI.
+![AWS Credentials](assets/CLI_BillingAlarm.png)
+![AWS Credentials](assets/CLI_BillingAlarm_UI.png)
+
+### Create SNS Topic from CLI
+
+I followed Andrew's video to create an SNS Topic from the CLI
+![AWS Credentials](assets/CreateSNS_CLI.png)
+![AWS Credentials](assets/SNS_SUB.png)
 
 ### Create an AWS Budget
 
 I followed Ashish's security considerations video to create an AWS Budget in the AWS UI.
 ![AWS Credentials](assets/AWS_Budget.png)
+
+I also followed Andrew's video on how to create an AWS Budget from the AWS CLI.
+![AWS Credentials](assets/AWS_Budget_CLI.png)
+![AWS Credentials](assets/AWS_Budget_UI_CLI.png)
+
+
+
+
