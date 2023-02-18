@@ -1,0 +1,4 @@
+aws sns subscribe \
+    --topic-arn="arn:aws:sns:eu-west-2:899254670444:billing-alarm" \
+    --protocol=email \
+    --notification-endpoint=leeharrison@me.com
