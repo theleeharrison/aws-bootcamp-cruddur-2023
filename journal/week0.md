@@ -38,9 +38,11 @@ I used the AWS GUI to generate an access key and secret access key, as well as s
 ### Install AWS CLI
 
 I downloaded and installed the AWS CLI tool following the instuctions on the AWS CLI webpage, I am using Gitpod for the Bootcamp and I injected the auto-installer code into the .gitpod.yml file so AWS CLI installs each time. I am using my local machine for a different project right now so I have a differnet AWS Account connected here, please see a screenshot demonstrating an S3 ls command from AWS CLI.
+
 ![AWS Credentials](assets/aws_cli_s3.png)
 
 I have also added an example where I am using AWS CLI from with my Gitpod.io workspace.
+
 ![AWS Credentials](assets/Gitpod_AWSCLI2.png)
 
 ### Create Billing Alarm
@@ -49,22 +51,29 @@ I followed Ashish's security considerations video to create an AWS Billing Alarm
 ![AWS Credentials](assets/BillingAlarm_Cloudwatch.png)
 
 I also followed Andrew's video on how to create a Billing alarm from the CLI.
+
 ![AWS Credentials](assets/CLI_BillingAlarm.png)
+
 ![AWS Credentials](assets/CLI_BillingAlarm_UI.png)
 
-### Create SNS Topic from CLI
+### Create SNS Topic from CLI
 
 I followed Andrew's video to create an SNS Topic from the CLI
+
 ![AWS Credentials](assets/CreateSNS_CLI.png)
+
 ![AWS Credentials](assets/SNS_SUB.png)
 
 ### Create an AWS Budget
 
 I followed Ashish's security considerations video to create an AWS Budget in the AWS UI.
+
 ![AWS Credentials](assets/AWS_Budget.png)
 
 I also followed Andrew's video on how to create an AWS Budget from the AWS CLI.
+
 ![AWS Credentials](assets/AWS_Budget_CLI.png)
+
 ![AWS Credentials](assets/AWS_Budget_UI_CLI.png)
 
 
