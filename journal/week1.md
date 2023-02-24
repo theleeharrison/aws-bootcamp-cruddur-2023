@@ -5,7 +5,7 @@
 
 Docker wasn't present on my Gitpod environemnt so I went to the extentions tab within VSCode and installed it.
 
-I created a [Dockerfile](https://github.com/theleeharrison/aws-bootcamp-cruddur-2023/blob/main/backend-flask/Dockerfile) within the backend-flask folder. The file contains the cod shown below:
+I created a [Dockerfile](https://github.com/theleeharrison/aws-bootcamp-cruddur-2023/blob/main/backend-flask/Dockerfile) within the backend-flask folder. The file contains the code shown below:
 
 ```dockerfile
 FROM python:3.10-slim-buster
