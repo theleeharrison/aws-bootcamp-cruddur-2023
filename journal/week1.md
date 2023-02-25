@@ -101,7 +101,7 @@ networks:
 volumes:
   db:
     driver: local
-    ```
+```
 
 As you can see I also added both the DynamoDB and Postgres modules to docker-compose. I also sucessfully used each module.
 
