@@ -117,7 +117,8 @@ I sucessfully added Notifications to the front end and back end. I had some issu
 
 The code for the notifcations can be seen here
 
-``` API File
+``` 
+*API File*
 /api/activities/notifications:
     get:
       description: 'Return a feed of activity for all of those that I follow'
@@ -144,7 +145,8 @@ def data_notifications():
     return data, 200
 ```
 
-``` Frontend Notifications Page
+``` 
+Frontend Notifications Page
 
 import './NotificationsFeedPage.css';
 import React from "react";
@@ -232,7 +234,8 @@ export default function NotificationsFeedPage() {
 }
 ```
 
-``` Frontend Notifications in App.js
+``` 
+Frontend Notifications in App.js
 
 import NotificationsFeedPage from './pages/NotificationsFeedPage';
 
