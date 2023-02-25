@@ -248,6 +248,14 @@ import NotificationsFeedPage from './pages/NotificationsFeedPage';
     element: <NotificationsFeedPage />
   },
 ```
+# Extra Homework Tasks
+
+I installed Docker on my local machine and pulled some images and had a bumnch of containised applications running.
+
+![DockerLocalMachine](assets/Weekl1-DockerImages.png)
+![DockerLocalMachine](assets/Week1-DockerContainersLocalMachine.png)
+
+
 
 
 
