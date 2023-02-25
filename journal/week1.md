@@ -35,7 +35,8 @@ EXPOSE ${PORT}
 
 # command to run application within docker container
 # python3 -m flask run --host=0.0.0.0 --port=4567 *this was a test to run in local gitpod*
-CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]```
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0", "--port=4567"]
+```
 
 I understood and set/unset 'Env Vars' within the Gitpod environment and passed these through to my Docker containers.
 
