@@ -133,9 +133,11 @@ The code for the notifcations can be seen here
               schema:
                 type: array
                 items:
-                $ref: '#/components/schemas/Activity'```
+                $ref: '#/components/schemas/Activity'
+```
 
-``` Backend Code
+``` 
+*Backend Code*
 
 from services.notifications_activities import *
 
@@ -146,7 +148,7 @@ def data_notifications():
 ```
 
 ``` 
-Frontend Notifications Page
+*Frontend Notifications Page*
 
 import './NotificationsFeedPage.css';
 import React from "react";
@@ -235,7 +237,7 @@ export default function NotificationsFeedPage() {
 ```
 
 ``` 
-Frontend Notifications in App.js
+*Frontend Notifications in App.js*
 
 import NotificationsFeedPage from './pages/NotificationsFeedPage';
 
