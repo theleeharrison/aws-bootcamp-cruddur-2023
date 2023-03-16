@@ -10,3 +10,4 @@ blinker
 rollbar 
 aws-xray-sdk
 
+Flask-AWSCognito
