@@ -26,7 +26,7 @@ export default function HomeFeedPage() {
         headers: {
           Authorization: `Bearer ${localStorage.getItem("access_token")}`
         },
-        method: "GET"
+        method: "GET" 
       });
       let resJson = await res.json();
       if (res.status === 200) {
@@ -37,7 +37,7 @@ export default function HomeFeedPage() {
     } catch (err) {
       console.log(err);
     }
-  };
+  }; 
 
   const checkAuth = async () => {
     Auth.currentAuthenticatedUser({
